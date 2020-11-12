@@ -1,6 +1,14 @@
 # world_time
 
-A new Flutter project.
+Flutter project.
+
+This app get time of defferent reigions using world time API (http://worldtimeapi.org/).
+User inputs timezone using a list view.
+
+## dependencies
+  http: ^0.12.0+2
+  intl: ^0.15.8
+  flutter_spinkit: ^4.0.0
 
 ## Getting Started
 
