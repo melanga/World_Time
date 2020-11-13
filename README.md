@@ -10,6 +10,8 @@ User inputs timezone using a list view.
   intl: ^0.15.8
   flutter_spinkit: ^4.0.0
 
+Images are contained in assets directory.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
